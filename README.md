@@ -1,2 +1,2 @@
-# football-data
-Example of data work done for Ridgefield High School Football
+# Football Data Work
+Example of data work done for Ridgefield High School Varsity Football. I would first go to the opponents hudl page, and download all of their previous games play data. This would look similar to PlaylistData_2019_01_12. I would then comb the data, and combined it with the other games in a formate similar to Danbury Pregame Data. Then, I would import the data into RHS- Danbury Pregame Report.xlsx and go through the calulations to finally produce RHS- Danbury Pregame Report.pdf which would be emailed to the coaches.
